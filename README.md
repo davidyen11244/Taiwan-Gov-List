@@ -1,8 +1,11 @@
 Taiwan-Gov-List
 ===============
 
-This is a parser to collect all the informations of every government institution.
-
 http://oid.nat.gov.tw/infobox1/personindex.jsp
-In this government website, you can see everything are messed up. And I think the informations in it is valuable though. So I decided to parse it.
-So make good use of this if you need.
+<br />
+In this government website, everything are messed up.<br />
+But I found the informations in it are valuable, so I decided to parse it with my favorite programming language <b>PYTHON</b>.
+
+## Requirements ##
+* Python 2.7 - http://www.python.org/
+* BeatufulSoup 4 - http://www.crummy.com/software/BeautifulSoup/
